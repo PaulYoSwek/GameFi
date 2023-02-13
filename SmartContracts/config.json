@@ -1,0 +1,9 @@
+{
+  "dev": {},
+  "btctest": {},
+  "main": {},
+  "bsctest": {
+    "Floppy": "0x9fAb49b4ED0A5C0ba44e5a236e8cdD9721dc2cff",
+    "Vault": "0xb53E2F1f6E03630949ECF780bDaAcF8097e5eC2d"
+  }
+}
