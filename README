@@ -1,0 +1,6 @@
+# GameFi
+
+This project displays the use of blockchain in a game using an API. 
+It also uses SQL to read / write to a database
+
+The game template for floppy bird was taken from here: https://github.com/nebez/floppybird
